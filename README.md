@@ -24,7 +24,7 @@
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
 
 #### Inteligencia Artificial
- Modelos LLM •  Speech-to-Text (STT) •  Procesamiento de Lenguaje Natural(NLP)
+ Modelos LLM •  Speech-to-Text (STT) •  Procesamiento de Lenguaje Natural (NLP)
  
 #### Herramientas
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></a>
